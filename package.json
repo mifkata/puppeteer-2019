@@ -1,0 +1,27 @@
+{
+  "name": "puppeteer-2019",
+  "version": "1.0.0",
+  "description": "Some demo code for a presentation from Apr 17, 2019 in Varna Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clickbuster/puppeteer-2019.git"
+  },
+  "keywords": [
+    "google",
+    "chrome",
+    "puppeteer"
+  ],
+  "author": "Andriyan Ivanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clickbuster/puppeteer-2019/issues"
+  },
+  "homepage": "https://github.com/clickbuster/puppeteer-2019#readme",
+  "dependencies": {
+    "puppeteer": "^1.14.0"
+  }
+}
