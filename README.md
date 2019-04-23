@@ -5,7 +5,7 @@ The presentation was held on 17 April, 2019 @ [VarnaLab](https://www.varnalab.or
 
 ## Contents
 * [VarnaLabPresentation.key](./VarnaLabPresentation.key) - the Keynote presentation
-* [scripts]('./scripts) - demo code used in the presentation
+* [scripts](./scripts) - demo code used in the presentation
 
 ## Scripts
 * `pdf.js` - outputs a web page as PDF, after clicking on a few confirmation windows
