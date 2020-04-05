@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-2019",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some demo code for a presentation from Apr 17, 2019 in Varna Lab",
   "main": "index.js",
   "scripts": {
