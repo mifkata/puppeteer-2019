@@ -12,5 +12,13 @@ The presentation was held on 17 April, 2019 @ [VarnaLab](https://www.varnalab.or
 * `screenshot.js` - outputs a Chrome screen as PNG
 * `ssr.js` - populates ToDo items and renders then in the backend using different frameworks, SPA is located at [TodoMVC.com](http://todomvc.com/)
 
+## Usage
+
+```bash
+# open [url], take screenshot and save it as output/full-page.pdf
+# default [url] is https://www.btv.bg
+node scripts/pdf.js [url]
+```
+
 ## License
 Apache 2.0
