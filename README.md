@@ -18,6 +18,10 @@ The presentation was held on 17 April, 2019 @ [VarnaLab](https://www.varnalab.or
 # open [url], take screenshot and save it as output/full-page.pdf
 # default [url] is https://www.btv.bg
 node scripts/pdf.js [url]
+
+# open [url], take screenshot and save it as output/screenshot.png
+# default [url] is https://dir.bg
+node scripts/screenshot.js [url]
 ```
 
 ## License
