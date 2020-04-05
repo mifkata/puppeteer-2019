@@ -1,9 +1,10 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const path = require('path');
 
 const framework = process.argv[2] || 'backbone';
 const source = `http://todomvc.com/examples/${framework}/`;
-const output = 'output.html';
+const output = path.resolve(__dirname, '..', 'output', 'ssr-page.html') ;
 
 (async () => {
   const browser = await puppeteer.launch({ headless: false, slowMo: 1 });

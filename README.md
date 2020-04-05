@@ -22,6 +22,11 @@ node scripts/pdf.js [url]
 # open [url], take screenshot and save it as output/screenshot.png
 # default [url] is https://dir.bg
 node scripts/screenshot.js [url]
+
+# Open http://todomvc.com/examples/[framework]/ and populate with
+# items and save the page as output/ssr-page.html
+# default [framework] is backbone
+node scripts/ssr.js [framework]
 ```
 
 ## License
